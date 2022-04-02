@@ -1,6 +1,6 @@
 
 //Audrey Tabler
-//This program prompts users for two arrays and then generates a union and intersection of arrays
+//This program prompts users for two arrays and then generates a union and intersection of arrays without use of ArrayLists
 import java.util.Scanner;
 
 public class aet83450a4sets {
